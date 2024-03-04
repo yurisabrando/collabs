@@ -17,3 +17,4 @@
             compatible[i] = new int[T][];
             for (int t = 0; t < T; t++) compatible[i][t] = new int[4];
         }
+//hello
